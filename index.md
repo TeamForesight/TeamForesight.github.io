@@ -2,6 +2,10 @@
 - [Guilded](https://www.guilded.gg/Team-Foresight/)
 - [Discord](https://discord.gg/8qUAFXk5A6)
 - [Twitter](https://twitter.com/Team__Foresight)
+
+
+
+#### Official Foresight Links:
 - [GitHub](https://github.com/TeamForesight)
 
 
@@ -29,16 +33,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Where you can find us!
+##### Brønsted:
+- [Twitter](https://twitter.com/bronsted56)
+##### Lylythii:
+- [Twitter](https://twitter.com/lylythii)
+##### Omni:
+- [Twitter](https://twitter.com/omniguardmc)
