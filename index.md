@@ -31,12 +31,15 @@
 - [Ko-FI](https://ko-fi.com/lylythii)
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
 
+##### Omni
+- [Ko-fi](https://ko-fi.com/omnimc)
 
 
 #### Where you can find us!
+
 ##### Brønsted:
 - [Twitter](https://twitter.com/bronsted56)
 ##### Lylythii:
 - [Twitter](https://twitter.com/lylythii)
 ##### Omni:
-- [Twitter](https://twitter.com/omniguardmc)
+- [Carrd](https://omnimc.carrd.co/)
