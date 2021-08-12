@@ -43,6 +43,6 @@
 - [Twitter](https://twitter.com/bronsted56)
 ##### Lylythii:
 - [Carrd](https://lylythii.carrd.co/)
-- [GitHub IO](https://lylythii.github.io/)\
+- [GitHub IO](https://lylythii.github.io/)
 ##### Omni:
 - [Carrd](https://omnimc.carrd.co/)
