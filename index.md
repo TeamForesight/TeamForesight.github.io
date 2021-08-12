@@ -1,17 +1,18 @@
 #### Official Foresight Community:
 - [Guilded](https://www.guilded.gg/Team-Foresight/)
 - [Discord](https://discord.gg/8qUAFXk5A6)
-- [Twitter](https://twitter.com/Team__Foresight)
 
 
 
 #### Official Foresight Links:
 - [GitHub](https://github.com/TeamForesight)
+- [Twitter](https://twitter.com/Team__Foresight)
+- [Twitch](https://www.twitch.tv/foresightteam)
+- [CurseForge](https://www.curseforge.com/members/foresightteam)
 
 
 
 #### Connected Communities:
-- [TerraFirmaCraft: Reloaded - Discord](https://discord.gg/aRQ9pQMDXm)
 - [Omni's Mod Hub - Discord](https://discord.gg/sBgftVvAwS)
 
 
@@ -29,6 +30,7 @@
 ##### Lylythii:
 - [Patreon](https://www.patreon.com/Lylythii)
 - [Ko-FI](https://ko-fi.com/lylythii)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/lylythii)
 - [PayPal](https://www.paypal.com/paypalme/lylythii)
 
 ##### Omni
@@ -40,6 +42,7 @@
 ##### Brønsted:
 - [Twitter](https://twitter.com/bronsted56)
 ##### Lylythii:
-- [Twitter](https://twitter.com/lylythii)
+- [Carrd](https://lylythii.carrd.co/)
+- [GitHub IO](https://lylythii.github.io/)\
 ##### Omni:
 - [Carrd](https://omnimc.carrd.co/)
