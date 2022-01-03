@@ -14,7 +14,7 @@
 
 #### Connected Communities:
 - [Omni's Mod Hub - Discord](https://discord.gg/sBgftVvAwS)
-- [TFC: Reloaded](https://terrafirmacraft-reloaded.github.io/)[ - Discord](https://discord.gg/BYhCVBggSt)
+- [TFC: Reloaded](https://terrafirmacraft-reloaded.github.io/) - [Discord](https://discord.gg/BYhCVBggSt)
 
 
 
@@ -44,8 +44,8 @@
 - [Twitter](https://twitter.com/bronsted56)
 
 ##### Lylythii:
-- [Carrd](https://lylythii.carrd.co/)
 - [GitHub IO](https://lylythii.github.io/)
+- [Carrd](https://lylythii.carrd.co/)
 
 ##### Omni:
 - [Carrd](https://omnimc.carrd.co/)
