@@ -14,6 +14,7 @@
 
 #### Connected Communities:
 - [Omni's Mod Hub - Discord](https://discord.gg/sBgftVvAwS)
+- [TFC: Reloaded](https://terrafirmacraft-reloaded.github.io/)[ - Discord](https://discord.gg/BYhCVBggSt)
 
 
 
