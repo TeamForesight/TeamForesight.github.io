@@ -1,6 +1,7 @@
 #### Official Foresight Community:
 - [Guilded](https://www.guilded.gg/Team-Foresight/)
 - [Discord](https://discord.gg/8qUAFXk5A6)
+- [Reddit](https://www.reddit.com/r/foresightmc/)
 
 
 
